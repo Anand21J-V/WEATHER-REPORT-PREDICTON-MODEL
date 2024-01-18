@@ -1,0 +1,1 @@
+Numerical weather prediction (NWP) uses mathematical models of the atmosphere and oceans to predict the weather based on current weather conditions. Though first attempted in the 1920s, it was not until the advent of computer simulation in the 1950s that numerical weather predictions produced realistic results.
